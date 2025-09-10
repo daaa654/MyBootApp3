@@ -2,7 +2,7 @@ package com.example.demo;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.bind.annotation.RequestMapping;
 /**
- * Hello world!
+ * Hello world2!
  */
 @RestController
 public class HelloController 
